@@ -1,7 +1,7 @@
 
 #! /bin/bash
 
-mkdir Devops
-touch Devops/mohamed
+mkdir /root/Devops
+touch /root/Devops/mohamed
 
 chmod 777 -R Devops
